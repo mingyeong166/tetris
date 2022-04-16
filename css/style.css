@@ -12,8 +12,7 @@ ul{
 body{
     height: 100%;
     overflow: hidden;
-    background: #5d5d5d;
-    /* background: #222; */
+    background: #222;
 }
 
 .game-text {
@@ -85,7 +84,7 @@ body{
 }
 
 .elLeft{
-    background: #2b3828;
+    background: #366eff;
 }
 
 .elRight{
